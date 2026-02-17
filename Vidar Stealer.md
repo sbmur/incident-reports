@@ -2,7 +2,7 @@
 
 ## Incident Overview
 
-A Discord account was observed sending unauthorized messages after a suspicious file, advertised as a "Roblox executor," was downloaded. Analysis confirmed the presence of Vidar Stealer, an information-stealing malware targeting credentials, browser data, cryptocurrency wallets, and other sensitive information.
+A Discord account was observed sending unauthorized messages after a suspicious file, advertised as a "Roblox executor," was downloaded. Analysis confirmed the presence of Vidar Stealer, an info stealer targeting credentials, browser data, cryptocurrency wallets, and other sensitive information.
 
 ---
 
